@@ -26,4 +26,4 @@ snakeToCamel('snake-case-string') // 'snakeCaseString'
 ## LICENSE
 
 MIT
-
+IJ
