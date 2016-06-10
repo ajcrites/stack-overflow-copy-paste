@@ -27,4 +27,3 @@ snakeToCamel('snake-case-string') // 'snakeCaseString'
 
 MIT
 
-
